@@ -25,4 +25,4 @@ La aplicación proporciona las siguientes visualizaciones a través de **botones
 5. Ejecuta la aplicación: `streamlit run app.py`
 
 ## Despliegue
-Esta aplicación está desplegada en Render y puede ser accedida en: [Enlace de tu aplicación en Render] (Aún no tienes este enlace, lo pondrás en el siguiente paso)
+Esta aplicación está desplegada en Render y puede ser accedida en: https://xulloa-cars-dashboard-my-streamlit-cars.onrender.com/
