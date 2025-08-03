@@ -1,4 +1,4 @@
-# cars
+
 # Dashboard de Análisis de Anuncios de Venta de Coches
 
 Este proyecto es una aplicación web interactiva desarrollada con Streamlit que permite a los usuarios explorar visualizaciones de un conjunto de datos de anuncios de venta de coches.
